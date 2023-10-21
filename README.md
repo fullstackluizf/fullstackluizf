@@ -3,8 +3,7 @@
 <p align="left"> 
 Bem vindo. Meu nome é Luiz Fernando e estou aprendendo a programar.
 <p align="left">
-  🦄 Linguagens: Python
-</p>
+  🦄 Linguagens:  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <p align="left">
   💌 Venha aprender comigo ⤵️
