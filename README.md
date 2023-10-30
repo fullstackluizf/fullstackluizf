@@ -10,7 +10,7 @@ Bem vindo. Meu nome é Luiz Fernando e estou aprendendo a programar.
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/0/?hl=pt_BR#inbox" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
   <a href="#" alt="LinkedIn">
